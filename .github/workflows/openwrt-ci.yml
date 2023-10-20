@@ -107,7 +107,7 @@ jobs:
           CONFIG_PACKAGE_coreutils-stat=y
           CONFIG_PACKAGE_coreutils-stty=y
           CONFIG_PACKAGE_dawn=y
-          CONFIG_PACKAGE_docker=y
+          #CONFIG_PACKAGE_docker=y
           CONFIG_PACKAGE_docker-compose=y
           CONFIG_PACKAGE_dockerd=y
           CONFIG_PACKAGE_fdisk=y
@@ -183,11 +183,11 @@ jobs:
           CONFIG_PACKAGE_libyaml=y
           CONFIG_PACKAGE_libzstd=y
           CONFIG_PACKAGE_luci-app-advanced=y
-          CONFIG_PACKAGE_luci-app-alist=y
+          #CONFIG_PACKAGE_luci-app-alist=y
           CONFIG_PACKAGE_luci-app-control-timewol=y
           CONFIG_PACKAGE_luci-app-dnsfilter=y
           CONFIG_PACKAGE_luci-app-docker=y
-          CONFIG_PACKAGE_luci-app-dockerman=y
+          #CONFIG_PACKAGE_luci-app-dockerman=y
           CONFIG_PACKAGE_luci-app-easymesh=y
           CONFIG_PACKAGE_luci-app-filebrowser=y
           CONFIG_PACKAGE_luci-app-iptvhelper=y
